@@ -11,7 +11,7 @@ I am a passionate and humorous web developer who is trained in a diverse set of 
 *   🧠  I'm learning c# to expand my coding languages as well as team management by using Trello to keep me on track.
 *   ⚡  I enjoy playing video games, specifically fps, running and boxing! (Yes, I touch grass) 
 
-#Skills<p align="left">
+𝐒𝐤𝐢𝐥𝐥𝐬<p align="left">
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
