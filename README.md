@@ -8,7 +8,8 @@ I am a passionate and humorous web developer who is trained in a diverse set of 
 
 * 🌍  I'm based in Garden Grove, California
 * ✉️  You can contact me at [alexismayoral11@gmail.com](mailto:alexismayoral11@gmail.com)
-* ⚡  I enjoy playing video games, specifically fps, running and boxing! (Yes, I touch grass)
+* 🏃‍♂️ I enjoy playing video games, specifically fps, and running!
+
 
 ### Skills
 
