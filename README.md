@@ -38,8 +38,6 @@ I am a passionate and humorous web developer who is trained in a diverse set of 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/alexis0501"><img src="https://github-readme-stats.vercel.app/api?username=alexis0501&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=ffffff&text_color=64748b&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="alexis0501's GitHub stats" /></a>
 
 <a href="http://www.github.com/alexis0501"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alexis0501&stroke=64748b&background=000000&ring=ffffff&fire=ffffff&currStreakNum=64748b&currStreakLabel=ffffff&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
-<a href="https://github.com/alexis0501" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexis0501&langs_count=10&title_color=ffffff&text_color=64748b&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
