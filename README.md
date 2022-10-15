@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Web developer
 ------------------------
 
-I am a passionate and humorous web developer who is trained in a diverse set of languages.
+I am a passionate and diligent full stack web developer.
 
 * 🌍  I'm based in Garden Grove, California
 * ✉️  You can contact me at [alexismayoral11@gmail.com](mailto:alexismayoral11@gmail.com)
