@@ -8,7 +8,7 @@ I am a passionate and diligent full stack web developer.
 
 * 🌍  I'm based in Garden Grove, California
 * ✉️  You can contact me at [alexismayoral11@gmail.com](mailto:alexismayoral11@gmail.com)
-* 🏃‍♂️ I enjoy playing video games, specifically fps, and running!
+* 🏃‍♂️ I enjoy playing video games, going out for runs and watching soccer!
 
 
 ### Skills
