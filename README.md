@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Web developer
 ------------------------
 
-I am a passionate and diligent full stack web developer.
+I am a passionate and diligent full-stack web developer.
 
 * 🌍  I'm based in Garden Grove, California
 * ✉️  You can contact me at [alexismayoral11@gmail.com](mailto:alexismayoral11@gmail.com)
-* 🏃‍♂️ I enjoy playing video games, going out for runs and watching soccer!
+* 🏃‍♂️ I enjoy playing video games, going out for runs, and watching soccer!
 
 
 ### Skills
